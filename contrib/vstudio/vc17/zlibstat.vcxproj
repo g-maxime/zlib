@@ -258,6 +258,7 @@
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <MultiProcessorCompilation>true</MultiProcessorCompilation>
       <DebugInformationFormat>None</DebugInformationFormat>
+      <ControlFlowGuard>Guard</ControlFlowGuard>
       <GuardEHContMetadata>true</GuardEHContMetadata>
     </ClCompile>
     <ResourceCompile>
