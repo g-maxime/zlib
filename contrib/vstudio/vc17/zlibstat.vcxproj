@@ -440,6 +440,7 @@
       <DebugInformationFormat>None</DebugInformationFormat>
       <ControlFlowGuard>Guard</ControlFlowGuard>
       <GuardEHContMetadata>true</GuardEHContMetadata>
+      <GuardSignedReturns>true</GuardSignedReturns>
     </ClCompile>
     <ResourceCompile>
       <Culture>0x040c</Culture>
